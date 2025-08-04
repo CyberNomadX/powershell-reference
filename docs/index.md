@@ -3,7 +3,8 @@
 ![Last Commit](https://img.shields.io/github/last-commit/CyberNomadX/powershell-reference)
 
 ## 📂 Contents
-
+### Disclaimer:
+I have not had a chance to fully test all of these commands, please let me know if any need to be changed.
 - [Active Directory](Active_Directory.md)
 - [Computer Account Management](Computer_Account_Management.md)
 - [Group Policy Management](Group_Policy_Management.md)
