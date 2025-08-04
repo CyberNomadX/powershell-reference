@@ -1,5 +1,9 @@
-# Powershell-Reference
+
+# 💻 PowerShell-Reference
+
 A personal reference of useful PowerShell commands, examples, and scripting patterns. Curated for sysadmins, IT professionals, and anyone working in Windows environments.
+
+---
 
 ## 📂 Contents
 
@@ -9,3 +13,15 @@ A personal reference of useful PowerShell commands, examples, and scripting patt
 - [Bulk Operations](Bulk_Operations.md)
 - [Delegation & Permissions](Delegation_and_Permissions.md)
 - [Cleanup & Maintenance](Cleanup_and_Maintenance.md)
+
+---
+
+## 🤝 Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines if you'd like to contribute examples or improvements.
+
+---
+
+## 🏷️ Topics
+
+PowerShell, Active Directory, Sysadmin, Automation, Windows Scripting, IT Ops
