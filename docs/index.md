@@ -2,12 +2,6 @@
 ![Repo Size](https://img.shields.io/github/repo-size/CyberNomadX/powershell-reference)
 ![Last Commit](https://img.shields.io/github/last-commit/CyberNomadX/powershell-reference)
 
-# 💻 PowerShell-Reference
-
-A personal reference of useful PowerShell commands, examples, and scripting patterns. Curated for sysadmins, IT professionals, and anyone working in Windows environments.
-
----
-
 ## 📂 Contents
 
 - [Active Directory](Active_Directory.md)
