@@ -35,7 +35,7 @@ Each `.md` file in the [`docs/`](docs) folder is rendered on the website.
 
 ## 🧠 Why?
 
-This repo started as my personal reference while working in IT, but I’ve made it public in case it helps someone else. If you find it useful or want to improve it — fork away or submit a PR.
+This repo started as my personal reference while working in IT, but I’ve made it public in case it helps someone else. If you find it useful or want to improve it, fork away or submit a PR.
 
 ---
 
