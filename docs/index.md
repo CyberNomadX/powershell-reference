@@ -1,8 +1,3 @@
----
-layout: default
-title: PowerShell Reference
----
-
 ![License](https://img.shields.io/github/license/CyberNomadX/powershell-reference)
 ![Repo Size](https://img.shields.io/github/repo-size/CyberNomadX/powershell-reference)
 ![Last Commit](https://img.shields.io/github/last-commit/CyberNomadX/powershell-reference)
