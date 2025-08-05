@@ -7,9 +7,6 @@
 A growing library of PowerShell tools and patterns I’ve put together as a sysadmin.  
 Public and open-source for anyone who wants to learn, copy, or contribute.
 
-🌐 **View the GitHub Repo:**  
-➡️ [github.com/CyberNomadX/powershell-reference](https://github.com/CyberNomadX/powershell-reference)
-
 ---
 
 ## 📂 Contents
