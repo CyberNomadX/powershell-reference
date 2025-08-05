@@ -32,12 +32,17 @@ I have not had a chance to fully test all of these commands. Please let me know 
 
 ---
 
+### 🖥️ System Tools
+
+- [Disk and Service Tools](system/Disk_and_Service_Tools.md)
+
+---
+
 ### 🖥️ Coming Soon
 
 - Local account management
 - Scheduled tasks
 - Windows Update
-- Disk and service tools
 
 ---
 
