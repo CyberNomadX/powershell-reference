@@ -2,14 +2,8 @@
 ![Repo Size](https://img.shields.io/github/repo-size/CyberNomadX/powershell-reference)
 ![Last Commit](https://img.shields.io/github/last-commit/CyberNomadX/powershell-reference)
 
-# 💻 PowerShell Reference
-
-A growing library of PowerShell tools and patterns I’ve put together as a sysadmin.  
-Public and open-source for anyone who wants to learn, copy, or contribute.
-
----
-
-## 📂 Contents
+🧭 Use the index below to explore useful PowerShell tools and commands.  
+For beginners, start with [PowerShell Basics](basics/PowerShell_Basics.md).
 
 ### ⚠️ Disclaimer:
 I have not had a chance to fully test all of these commands. Please let me know if any need to be changed or corrected.
