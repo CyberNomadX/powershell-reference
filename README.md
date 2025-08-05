@@ -18,17 +18,16 @@ Public and open-source for anyone who wants to learn, copy, or contribute.
 ### ⚠️ Disclaimer:
 I have not had a chance to fully test all of these commands. Please let me know if any need to be changed or corrected.
 
-<details>
-<summary>🔐 Active Directory</summary>
+---
 
-- [Active Directory](docs/ad/Active_Directory.md)  
+🔐 Active Directory
+
+- [General Active Directory](docs/ad/Active_Directory.md)  
 - [Computer Account Management](docs/ad/Computer_Account_Management.md)  
 - [Group Policy Management](docs/ad/Group_Policy_Management.md)  
 - [Bulk Operations](docs/ad/Bulk_Operations.md)  
 - [Delegation & Permissions](docs/ad/Delegation_and_Permissions.md)  
 - [Cleanup & Maintenance](docs/ad/Cleanup_and_Maintenance.md)  
-
-</details>
 
 ---
 
