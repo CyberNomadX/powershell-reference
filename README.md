@@ -1,3 +1,4 @@
+
 ![License](https://img.shields.io/github/license/CyberNomadX/powershell-reference)
 ![Repo Size](https://img.shields.io/github/repo-size/CyberNomadX/powershell-reference)
 ![Last Commit](https://img.shields.io/github/last-commit/CyberNomadX/powershell-reference)
@@ -12,33 +13,40 @@ Public and open-source for anyone who wants to learn, copy, or contribute.
 
 ---
 
-## 📁 What's Inside
+## 📂 Contents
 
-- ✅ Practical scripts and command references
-- 🛠️ Topics include Active Directory, Group Policy, bulk tasks, and more
-- 🤝 Contributions welcome!
+### ⚠️ Disclaimer:
+I have not had a chance to fully test all of these commands. Please let me know if any need to be changed or corrected.
 
----
+<details>
+<summary>🔐 Active Directory</summary>
 
-## 📚 Pages Structure
+- [Active Directory](docs/ad/Active_Directory.md)  
+- [Computer Account Management](docs/ad/Computer_Account_Management.md)  
+- [Group Policy Management](docs/ad/Group_Policy_Management.md)  
+- [Bulk Operations](docs/ad/Bulk_Operations.md)  
+- [Delegation & Permissions](docs/ad/Delegation_and_Permissions.md)  
+- [Cleanup & Maintenance](docs/ad/Cleanup_and_Maintenance.md)  
 
-Each `.md` file in the [`docs/`](docs) folder is rendered on the website.
-
-- [Active Directory](docs/Active_Directory.md)
-- [Computer Account Management](docs/Computer_Account_Management.md)
-- [Group Policy Management](docs/Group_Policy_Management.md)
-- [Bulk Operations](docs/Bulk_Operations.md)
-- [Delegation & Permissions](docs/Delegation_and_Permissions.md)
-- [Cleanup & Maintenance](docs/Cleanup_and_Maintenance.md)
+</details>
 
 ---
 
-## 🧠 Why?
+### 🖥️ Coming Soon
 
-This repo started as my personal reference while working in IT, but I’ve made it public in case it helps someone else. If you find it useful or want to improve it, fork away or submit a PR.
+- Local account management
+- Scheduled tasks
+- Windows Update
+- Disk and service tools
 
 ---
 
 ## 🤝 Contributing
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details.
+See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines if you'd like to contribute examples or improvements.
+
+---
+
+## 🏷️ Topics
+
+PowerShell, Active Directory, Sysadmin, Automation, Windows Scripting, IT Ops
