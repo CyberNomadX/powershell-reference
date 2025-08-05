@@ -14,8 +14,6 @@ Public and open-source for anyone who wants to learn, copy, or contribute.
 ### ⚠️ Disclaimer:
 I have not had a chance to fully test all of these commands. Please let me know if any need to be changed or corrected.
 
----
-
 ### 🔐 Active Directory
 
 - [Active Directory](ad/Active_Directory.md)
@@ -25,13 +23,10 @@ I have not had a chance to fully test all of these commands. Please let me know 
 - [Delegation & Permissions](ad/Delegation_and_Permissions.md)
 - [Cleanup & Maintenance](ad/Cleanup_and_Maintenance.md)
 
----
-
 ### 🖥️ System Tools
 
 - [Disk and Service Tools](system/Disk_and_Service_Tools.md)
 
----
 ### 🖥️ Coming Soon
 
 - Local account management
