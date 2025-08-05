@@ -37,6 +37,7 @@ I have not had a chance to fully test all of these commands. Please let me know 
 ### 🖥️ System Tools
 
 - [Disk and Service Tools](system/Disk_and_Service_Tools.md)
+- [Windows Update](system/Windows_Update.md)
 
 ---
 
@@ -44,7 +45,6 @@ I have not had a chance to fully test all of these commands. Please let me know 
 
 - Local account management
 - Scheduled tasks
-- Windows Update
 
 ---
 
