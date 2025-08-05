@@ -19,6 +19,9 @@ Public and open-source for anyone who wants to learn, copy, or contribute.
 I have not had a chance to fully test all of these commands. Please let me know if any need to be changed or corrected.
 
 ---
+### 🛠️ Basics
+- [PowerShell Basics](basics/PowerShell_Basics.md)
+- [Syntax and Fundamentals](basics/Syntax_and_Fundamentals.md)
 
 🔐 Active Directory
 
