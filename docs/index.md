@@ -5,7 +5,7 @@
 🧭 Use the index below to explore useful PowerShell tools and commands.  
 For beginners, start with [PowerShell Basics](basics/PowerShell_Basics.md).
 
-### ⚠️ Disclaimer:
+### ⚠️ Disclaimer:  
 I have not had a chance to fully test all of these commands. Please let me know if any need to be changed or corrected.
 
 ### 🛠️ Basics
