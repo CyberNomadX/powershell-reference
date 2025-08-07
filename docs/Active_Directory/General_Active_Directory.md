@@ -133,3 +133,18 @@ Set-ADUser jdoe -ChangePasswordAtLogon $true
 ```powershell
 Unlock-ADAccount -Identity jdoe
 ```
+
+---
+
+## Tools
+
+### Install Active Directory Users and Computers (ADUC, Win 11)
+```powershell
+Add-WindowsCapability -Online -Name "Rsat.ActiveDirectory.DS-LDS.Tools~~~~0.0.1.0"
+```
+
+### Check installed RSAT tools
+```powershell
+Get-WindowsCapability -Online | Where-Object Name -like "*RSAT*"
+```
+
