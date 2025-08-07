@@ -97,6 +97,18 @@ Get-ADUser -Identity jdoe
 Get-ADUser jdoe | Get-ADUserMemberOf
 ```
 
+### Check AD trust relationship
+```powershell
+Test-ComputerSecureChannel
+```
+Returns ```True``` if the trust relationship is intact, or ```False``` if its broken.
+Verbose output: ```-Verbose```
+Force repair: ```Test-ComputerSecureChannel -Repair -Credential (Get-Credential)```
+Remote (if powershell remoting is enabled):
+```powershell
+Invoke-Command -ComputerName RemotePCName -ScriptBlock { Test-ComputerSecureChannel }
+```
+
 ---
 
 ## 📄 Exporting Results
