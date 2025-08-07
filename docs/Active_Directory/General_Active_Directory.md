@@ -102,8 +102,9 @@ Get-ADUser jdoe | Get-ADUserMemberOf
 Test-ComputerSecureChannel
 ```
 Returns ```True``` if the trust relationship is intact, or ```False``` if its broken.
-Verbose output: ```-Verbose```
-Force repair: ```Test-ComputerSecureChannel -Repair -Credential (Get-Credential)```
+ 
+For verbose output: ```-Verbose```  
+To force repair (if broken): ```Test-ComputerSecureChannel -Repair -Credential (Get-Credential)```
 
 Remote (if powershell remoting is enabled):
 ```powershell
