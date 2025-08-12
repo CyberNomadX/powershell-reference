@@ -69,8 +69,26 @@ Rename-ADObject -Identity "OU=OldName,DC=example,DC=com" -NewName "NewName"
 ## 🔍 Searching & Filtering
 
 ### Find a User by Name
+-> Match any name containing "john"
 ```powershell
-Get-ADUser -Filter 'Name -like "*john*"' -Properties *
+Get-ADUser -Filter "Name -like '*john*'"
+```  
+-> Match names starting with "john"
+```powershell
+Get-ADUser -Filter "Name -like 'john*'"
+```  
+-> Match names ending with "john"
+```powershell
+Get-ADUser -Filter "Name -like '*john'"
+```  
+-> Match exactly "John"
+```powershell
+Get-ADUser -Filter "Name -eq 'John'"
+```  
+-> Return specific properties (faster than pulling them all)
+```powershell
+Get-ADUser -Filter "Name -like '*john*'" -Properties SamAccountName |
+    Select-Object Name, SamAccountName
 ```
 
 ### List Disabled Accounts
