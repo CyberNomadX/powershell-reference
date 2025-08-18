@@ -20,7 +20,7 @@ I have not had a chance to fully test all of these commands. Please let me know 
 - [Bulk Operations](Active_Directory/Bulk_Operations.md)
 - [Delegation & Permissions](Active_Directory/Delegation_and_Permissions.md)
 - [Cleanup & Maintenance](Active_Directory/Cleanup_and_Maintenance.md)
-- [Querying Active Directory from Manjaro (Non-Domain-Joined)](manjaro_ad_ldap.md)
+- [Querying Active Directory from Manjaro (Non-Domain-Joined)](Active_Directory/manjaro_ad_ldap.md)
 
 ### 🖥️ System Tools
 
