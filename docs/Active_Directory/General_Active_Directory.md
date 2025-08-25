@@ -152,6 +152,11 @@ Set-ADUser jdoe -ChangePasswordAtLogon $true
 Unlock-ADAccount -Identity jdoe
 ```
 
+### Last password reset (Single User)
+```powershell
+Get-ADUser -Identity kduffy -Properties PasswordLastSet | Select-Object SamAccountName, PasswordLastSet
+```
+
 ---
 
 ## Tools
