@@ -3,7 +3,6 @@
 > **Work in progress** — still needs to be organized. TODO: figure out a page-specific search function.
 
 ## Check if file exists
-
 To check if a file exists, use the `Test-Path` command.
 
 **Example:**
