@@ -3,14 +3,16 @@
 ![Last Commit](https://img.shields.io/github/last-commit/CyberNomadX/powershell-reference)
 
 🧭 Use the index below to explore useful PowerShell tools and commands.  
-For beginners, start with [PowerShell Basics](basics/PowerShell_Basics.md).
+For beginners, start with [PowerShell Basics](fundamentals/PowerShell_Basics.md).
 
 ### ⚠️ Disclaimer:  
 I have not had a chance to fully test all of these commands. Please let me know if any need to be changed or corrected.
 
-### 🛠️ Basics
-- [PowerShell Basics](basics/PowerShell_Basics.md)
-- [Syntax and Fundamentals](basics/Syntax_and_Fundamentals.md)
+### 🧱 Fundamentals
+
+- [PowerShell Basics](fundamentals/PowerShell_Basics.md)
+- [Syntax and Fundamentals](fundamentals/Syntax_and_Fundamentals.md)
+- [File Commands](fundamentals/File_Commands.md)
 
 ### 🔐 Active Directory
 
@@ -27,10 +29,12 @@ I have not had a chance to fully test all of these commands. Please let me know 
 - [Disk and Service Tools](system/Disk_and_Service_Tools.md)
 - [Windows Update](system/Windows_Update.md)
 
-### 🖥️ Coming Soon
+### 🚧 Coming Soon
 
-- Local account management
-- Scheduled tasks
+- Pipeline & Objects (Fundamentals)
+- Variables & Data Types (Fundamentals)
+- Local account management (System Tools)
+- Scheduled tasks (System Tools)
 
 ---
 
